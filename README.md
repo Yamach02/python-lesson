@@ -1,1 +1,1 @@
-# python-lesson
+Bu yerda python darslarining kodlari yozib boriladi.
